@@ -1,0 +1,3 @@
+http://43.205.118.12:8080/  - Jenkins Server
+
+/home/ec2-user/Developer/flutter

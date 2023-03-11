@@ -1,0 +1,96 @@
+Design
+https://dribbble.com/shots/13802964-Calculator-Vault
+
+local_auth
+https://blog.codemagic.io/flutter-local-authentication-using-biometrics/
+
+Locky - Folders & Files Locker Flutter 2 App
+https://codecanyon.net/item/locky-folders-files-locker-flutter-app/34223256
+
+Flutter Password-vault Resources
+https://flutterrepos.com/tag/password-vault
+
+Best way to make a "Photo Vault" app
+https://stackoverflow.com/questions/5863619/best-way-to-make-a-photo-vault-app
+
+10 Best Apps to Hide Photos and Videos on Android
+https://beebom.com/apps-to-hide-photos-videos-android/
+
+flutter_secure_storage: ^5.0.2
+https://pub.dev/packages/flutter_secure_storage
+
+Flutter Secure your sensitive data
+https://medium.com/flutter-community/flutter-secure-your-sensitive-data-2869239e6f9a
+
+Hive command to generate adapters
+flutter packages pub run build_runner build
+
+Coding A Flutter Password Manager For Myself !
+https://www.youtube.com/watch?v=i7jyJno0ZMA
+
+// add private search page via webview
+
+contacts_service: ^0.6.3
+https://pub.dev/packages/contacts_service
+
+Creating a Full-Featured Browser using WebViews in Flutter
+https://medium.com/flutter-community/creating-a-full-featured-browser-using-webviews-in-flutter-9c8f2923c574
+
+
+Exploring CSV In Flutter
+https://medium.flutterdevs.com/exploring-csv-in-flutter-fafc57b02eb1
+
+random_string: ^2.3.1
+https://pub.dev/packages/random_string
+
+mime_type: ^1.0.0
+https://pub.dev/packages/mime_type
+
+audiotagger: ^2.2.1
+https://pub.dev/packages/audiotagger
+
+
+
+
+// jenkins
+// android path 
+// /Users/imrishuroy/Library/Android/sdk
+
+// flutter path
+// /Users/imrishuroy/Developer/flutter/bin
+
+// home
+
+//  brew services start jenkins-lts
+
+// @Immutable2024
+
+
+// #Rishuroy2024
+
+// export PATH=$PATH:~/Users/imrishuroy/Developer/webhook/
+
+//
+/*
+
+
+
+key
+4dd0de7a-0db1-4da3-a1aa-acb35a429134
+
+secrect
+gV74BbWgB5sJ
+
+relay login 
+relay login -k 4dd0de7a-0db1-4da3-a1aa-acb35a429134 -s gV74BbWgB5sJ
+
+export RELAY_KEY=4dd0de7a-0db1-4da3-a1aa-acb35a429134
+export RELAY_SECRET=gV74BbWgB5sJ
+
+
+kubectl create secret generic whr-credentials \
+    --from-literal=key=4dd0de7a-0db1-4da3-a1aa-acb35a429134 \
+    --from-literal=secret=gV74BbWgB5sJ
+
+
+*/

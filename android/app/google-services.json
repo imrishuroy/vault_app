@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213173857456",
+    "project_id": "secret-vault-1fde8",
+    "storage_bucket": "secret-vault-1fde8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213173857456:android:df8c10b1cb9bb7df651f75",
+        "android_client_info": {
+          "package_name": "com.rishu.vault_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213173857456-s2ng5onab4pnahas7jk0motr4ueahh5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishu.vault_app",
+            "certificate_hash": "50e6f89fe461f7a96dc4aab692e944a037447ebe"
+          }
+        },
+        {
+          "client_id": "213173857456-fkndp2mukq47jbu2hp2hb6tl9mnj5bb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQLgaXOUoIe6b4FES1Y_jWIIFzbHnCek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213173857456-fkndp2mukq47jbu2hp2hb6tl9mnj5bb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
